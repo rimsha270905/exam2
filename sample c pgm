@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+enter printf("hello from c!");
+return 0;
+}
